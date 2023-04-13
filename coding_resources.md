@@ -1,5 +1,4 @@
 # Coding Resources Collation
-======
 
 [University Library Subject Guide](https://subjectguides.york.ac.uk/coding)
 
